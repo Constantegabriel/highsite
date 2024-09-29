@@ -18,7 +18,7 @@ function App() {
 <body>
    <header>
      <nav className='navigation'>
-         <a href="#" className='logo'>W<span>a</span>vess</a>
+         <a href="#" className='logo'>C<span>o</span>nstante Wavess</a>
            <ul className='nav-menu'>
              <li className='nav-item'><a href="#">Home</a></li>
              <li className='nav-item'><a href="#">Quem somos</a></li>
@@ -43,7 +43,7 @@ function App() {
    <main>
     <section className='home'>
       <div className='home-text'>
-        <h4 className='text-h4'>Welcome Waves</h4>
+        <h4 className='text-h4'>Welcome to Constante Waves</h4>
         <h1 className='text-h1'>Uma onda de inovação</h1>
         <p>Embarque na inovação online para a sua empresa</p>
         <a href="#" className='home-button'>À sua disposição</a>

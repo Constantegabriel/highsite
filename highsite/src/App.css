@@ -182,6 +182,7 @@ padding: 80px 45px;
 height: 0;
 margin-top: 1000px;
 
+
 }
 
 .footeer-end{
@@ -200,7 +201,7 @@ font-family: 'Poppins',sans-serif;
 align-items: center;
 justify-content: center;
 display: flex;
-margin-top: -150px;
+margin-top: -00px;
 
 }
 
@@ -294,7 +295,7 @@ background-color: rgba(0, 0, 0, 0);
 transform: scale(1.3);
 box-sizing: border-box;
 border-radius: 25px;
-padding: 0px 0px;
+padding: 35px 45px;
 
 
 }
@@ -598,6 +599,11 @@ color: #ffffff;
 font-size: 13px;
 }
                     
+.dogmau-img{
+height: auto;
+width: 1000px;
+margin-bottom: 1120px;
+}
                     
 
 
