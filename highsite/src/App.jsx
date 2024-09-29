@@ -1,5 +1,8 @@
 import { useState } from 'react'
 import reactLogo from './assets/wavess.png'
+import frontLogo from './assets/front.png'
+import backLogo from './assets/back.png'
+import bancoLogo from './assets/banco.png'
 import viteLogo from '/vite.svg'
 import './App.css'
 
@@ -28,6 +31,7 @@ function App() {
              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAd5JREFUSEu11cvLTWEUx/HPGxnIpSiXiZAwcIuSAQpFL2XqUgxIURhQBv4AMiEhDCgk5Q+Q0VsImSAlopTIgFwi9+uz6nl1HO/e5xnssya7zn7O+j5rrd9v7R5djp4u51cHmIB1WInZ+SJ3cAkX8LzkcgMBRuAcVtck+I2L2IRPdaB2wFDcwgx8xUkcxpOcZDJ2YQuG5LOL8L0K0g44iw14hhV4UPHHWbicLjAeB7G7BDAT9/Aj9Xk+ot91sRhX8A2T8GKgw60VHMF2HMWOkgHiPNYnyF7s7wR4jCm5//cLAUvQh2vpGRX9F60VfEQMeRB+FQJGpWpf4w1GdwK8x3AMQ8BKIs5+wCuM6QS4mw01L3ngdkn2pKQFSW03c5uWdQIcSKbZgxPYVgg4kzyyMbUnBLKzE2AqHuJnoUzDYFdz0sqq2412Ktv/KZYnCT6qqGRONtrY7PatJUaLM62r4guO41B2dryPKmNVbMbgnDRmEK6PYdfKtP/lyGygVTVzeJd20b7U0rWYm12/FPH7P1G3ridml/Yids/nrK4bOIa3CB+E0WKdhwpDSeGJv9HEBycg1zEdsQ0W4mU/oQlA5AqThaKm5fmcbhoQ+cal9b4mfz8abVGtJ5tqUSWk64A/OxFWGSrrSC8AAAAASUVORK5CYII=" className='bot'/>
            </button>
           </ul>
+
              <div className='menu'>
                <span className='bar'></span>
                <span className='bar'></span>
@@ -45,10 +49,23 @@ function App() {
         <a href="#" className='home-button'>À sua disposição</a>
       </div>
       <div className='home-img'>
-      <img src={reactLogo} alt="React Logo" />
+      <img src={reactLogo} alt="React Logo" className='imagem'/>
       </div>
     </section>
    </main>
+<section className='skills'>
+<div className='skills-home'>
+<h4 className='skills-tittle'>Skills</h4>
+<a href="your-page-url" class="skills-front">
+  <img src={frontLogo} alt="front end icon" className='skills-img-fro'/> Front End</a>
+
+<a href="your-page-url" class="skills-back">
+<img src={backLogo} alt="back end icon" className='skills-img-bac'/>    Back End    </a>
+
+<a href="your-page-url" class="skills-banco">
+ <img src={bancoLogo} alt="banco icon" className='skills-img-bdd'/>Banco de Dados</a>
+</div>
+</section>
        <footer className='footeer'>
          <div className='footeer-div'>
 <h3 className='footeer-end'>end of site, thanks for coming here</h3>
