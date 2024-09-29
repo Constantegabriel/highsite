@@ -73,23 +73,23 @@ function App() {
 <ul>
 <li className='list-1'>
   <a href="your-page-url" className='motv-1'>
-  <img src={frontLogo} alt="inco 1" className='motv-foto-1'/><p className='pa-1'>Presença Online</p><p className='pa-11'></p>Um site permite que sua empresa esteja acessível para os clientes a qualquer hora do dia, em qualquer lugar do mundo. Isso aumenta a visibilidade e permite que os usuários conheçam seus serviços, mesmo fora do horário comercial.<p className='pa-111'>Exemplo: Um site sempre disponível pode fornecer informações importantes, capturar leads ou até realizar vendas automaticamente.</p></a>
+  <img src={frontLogo} alt="inco 1" className='motv-foto-1'/><p className='pa-1'>Presença Online</p><p className='pa-11'>Um site permite que sua empresa esteja acessível para os clientes a qualquer hora do dia, em qualquer lugar do mundo. Isso aumenta a visibilidade e permite que os usuários conheçam seus serviços, mesmo fora do horário comercial.</p></a>
 
   <a href="your-page-url" className='motv-2'>
-  <img src={frontLogo} alt="icon 2" className='motv-foto-2'/><p className='pa-2'>Credibilidade e Confiança</p><p className='pa-22'>Ter um site profissional transmite credibilidade. Empresas com presença digital são vistas como mais confiáveis pelos consumidores, especialmente se o site tiver um design moderno e oferecer uma boa experiência ao usuário.</p><p className='pa-222'>Exemplo: Clientes potenciais podem verificar avaliações, portfólios, e serviços com facilidade, construindo confiança desde o primeiro contato.</p></a>
+  <img src={frontLogo} alt="icon 2" className='motv-foto-2'/><p className='pa-2'>Credibilidade e Confiança</p><p className='pa-22'>Ter um site profissional transmite credibilidade. Empresas com presença digital são vistas como mais confiáveis pelos consumidores, especialmente se o site tiver um design moderno e oferecer uma boa experiência ao usuário.</p></a>
 
   <a href="your-page-url" className='motv-3'>
-  <img src={frontLogo} alt="icon 3" className='motv-foto-3'/><p className='pa-3'>Marketing Digital Eficaz</p><p className='pa-33'>Um site é o ponto central para suas estratégias de marketing digital, como SEO, campanhas de anúncios pagos, e email marketing. Ele ajuda a atrair novos visitantes e a converter leads em clientes.</p><p className='pa-333'>Exemplo: Com uma página otimizada para SEO, sua empresa pode ser encontrada facilmente em buscas relevantes no Google.</p></a>
+  <img src={frontLogo} alt="icon 3" className='motv-foto-3'/><p className='pa-3'>Marketing Digital Eficaz</p><p className='pa-33'>Um site é o ponto central para suas estratégias de marketing digital, como SEO, campanhas de anúncios pagos, e email marketing. Ele ajuda a atrair novos visitantes e a converter leads em clientes.</p></a>
 </li>
 <li className='list-2'>
   <a href="your-page-url" className='motv-4'>
-  <img src={frontLogo} alt="icon 4" className='motv-foto-4'/><p className='pa-4'>Expandir o Alcance e Conquistar Novos Mercados</p><p className='pa-44'>Um site oferece a oportunidade de atingir um público global, sem as limitações geográficas de uma loja física. Isso ajuda a expandir seus negócios e conquistar novos mercados.</p><p className='pa-444'>Exemplo: Uma empresa local pode começar a vender para diferentes estados ou até internacionalmente com um site bem planejado.</p></a>
+  <img src={frontLogo} alt="icon 4" className='motv-foto-4'/><p className='pa-4'>Expandir o Alcance e Conquistar Novos Mercados</p><p className='pa-44'>Um site oferece a oportunidade de atingir um público global, sem as limitações geográficas de uma loja física. Isso ajuda a expandir seus negócios e conquistar novos mercados.</p></a>
 
   <a href="your-page-url" className='motv-5'>
-  <img src={frontLogo} alt="icon 5" className='motv-foto-5'/><p className='pa-5'>Custo-Benefício</p><p className='pa-55'>Comparado a outras formas de publicidade e presença física, um site é um investimento relativamente barato com retorno significativo. Além disso, pode automatizar processos que reduzem custos operacionais.</p><p className='pa-555'>Exemplo: Funções como agendamento online ou venda de produtos via e-commerce reduzem a necessidade de atendimento manual.</p></a>
+  <img src={frontLogo} alt="icon 5" className='motv-foto-5'/><p className='pa-5'>Custo-Benefício</p><p className='pa-55'>Comparado a outras formas de publicidade e presença física, um site é um investimento relativamente barato com retorno significativo. Além disso, pode automatizar processos que reduzem custos operacionais.</p></a>
 
   <a href="your-page-url" className='motv-6'>
-  <img src={frontLogo} alt="icon 6" className='motv-foto-6'/><p className='pa-6'>Melhor Relacionamento com o Cliente</p><p className='pa-66'>Com um site, você pode oferecer recursos de suporte, como chat ao vivo, formulários de contato e FAQs. Isso melhora o atendimento ao cliente e mantém a comunicação aberta.</p><p className='pa-600'>Exemplo:Um cliente pode tirar dúvidas e até resolver problemas sozinho com seções bem estruturadas de suporte, sem precisar ligar ou enviar e-mails.</p></a>
+  <img src={frontLogo} alt="icon 6" className='motv-foto-6'/><p className='pa-6'>Melhor Relacionamento com o Cliente</p><p className='pa-66'>Com um site, você pode oferecer recursos de suporte, como chat ao vivo, formulários de contato e FAQs. Isso melhora o atendimento ao cliente e mantém a comunicação aberta.</p></a>
 </li>  
  </ul>       
  </div>
