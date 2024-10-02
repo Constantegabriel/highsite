@@ -331,9 +331,9 @@ align-items: center;
 }
 
 .motv{
-padding: 140px 100px;
+padding: 0px 100px;
 align-items: center;
-background-color: rgb(0, 174, 255);
+background-color: var(--wave);
 margin-top: 150px;
 
 
@@ -371,7 +371,7 @@ justify-content: center;
 background-color: rgba(255, 255, 255, 0.15);
 box-shadow: 0 0.1rem 5rem #ffffff;
 text-align: center;
-padding: 55px 85px;
+padding: 35px 25px;
 margin-top: 85px;
 margin-bottom: 85px;
 margin-left: 85px;
@@ -389,7 +389,7 @@ justify-content: center;
 background-color: rgba(255, 255, 255, 0.15);
 box-shadow: 0 0.1rem 5rem #ffffff;
 text-align: center;
-padding: 55px 85px;
+padding: 35px 25px;
 margin-top: 85px;
 margin-bottom: 85px;
 margin-left: 85px;
@@ -407,7 +407,7 @@ justify-content: center;
 background-color: rgba(255, 255, 255, 0.15);
 box-shadow: 0 0.1rem 5rem #ffffff;
 text-align: center;
-padding: 55px 85px;
+padding: 35px 25px;
 margin-top: 85px;
 margin-bottom: 85px;
 margin-left: 85px;
@@ -426,7 +426,7 @@ justify-content: center;
 background-color: rgba(255, 255, 255, 0.15);
 box-shadow: 0 0.1rem 5rem #ffffff;
 text-align: center;
-padding: 55px 85px;
+padding: 35px 25px;
 margin-top: 85px;
 margin-bottom: 85px;
 margin-left: 85px;
@@ -445,7 +445,7 @@ justify-content: center;
 background-color: rgba(255, 255, 255, 0.15);
 box-shadow: 0 0.1rem 5rem #ffffff;
 text-align: center;
-padding: 55px 85px;
+padding: 35px 25px;
 margin-top: 85px;
 margin-bottom: 85px;
 margin-left: 85px;
@@ -464,7 +464,7 @@ justify-content: center;
 background-color: rgba(255, 255, 255, 0.15);
 box-shadow: 0 0.1rem 5rem #ffffff;
 text-align: center;
-padding: 55px 85px;
+padding: 35px 25px;
 margin-top: 85px;
 margin-bottom: 85px;
 margin-left: 85px;
@@ -518,7 +518,7 @@ display: flex;
 
 .list-1{
 display: inline-block -moz-stack;
-background-color: rgb(0, 174, 255);
+background-color: var(--wave);
 align-items: center;
 justify-content: center;
 margin-bottom: -220px;
@@ -528,16 +528,17 @@ display: flex;
 .list-2{
     display: inline-block -moz-stack;
     display: flex;
-    background-color: rgb(0, 174, 255);
+    background-color: var(--wave);
     align-items: center;
     display: flex;
     justify-content: center;
     margin-top: 200px;
-    }
+}
 
 .pa-1{
 font-size: 20px;
 color: #ffffff;
+
 }
 
 .pa-11{

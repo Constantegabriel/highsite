@@ -73,10 +73,10 @@ function App() {
 <ul>
 <li className='list-1'>
   <a href="your-page-url" className='motv-1'>
-  <img src={frontLogo} alt="inco 1" className='motv-foto-1'/><p className='pa-1'>Presença Online</p><p className='pa-11'>Um site permite que sua empresa esteja acessível para os clientes a qualquer hora do dia, em qualquer lugar do mundo. Isso aumenta a visibilidade e permite que os usuários conheçam seus serviços, mesmo fora do horário comercial.</p></a>
+  <img src={frontLogo} alt="inco 1" className='motv-foto-1'/><p className='pa-1'>Presença Online</p><p className='pa-11'>Um site permite que sua empresa esteja acessível  para os clientes a qualquer hora do dia, em qualquer lugar do mundo. Isso aumenta a visibilidade e permite que os usuários conheçam seus serviços mesmo fora do horário comercial.</p></a>
 
   <a href="your-page-url" className='motv-2'>
-  <img src={frontLogo} alt="icon 2" className='motv-foto-2'/><p className='pa-2'>Credibilidade e Confiança</p><p className='pa-22'>Ter um site profissional transmite credibilidade. Empresas com presença digital são vistas como mais confiáveis pelos consumidores, especialmente se o site tiver um design moderno e oferecer uma boa experiência ao usuário.</p></a>
+  <img src={frontLogo} alt="icon 2" className='motv-foto-2'/><p className='pa-2'>Credibilidade e Confiança</p><p className='pa-22'>Ter um site profissional transmite credibilidade. <br />Empresas com presença digital são vistas como <br />mais confiáveis pelos consumidores, especialmente se o site tiver um design moderno e oferecer uma boa experiência ao usuário.</p></a>
 
   <a href="your-page-url" className='motv-3'>
   <img src={frontLogo} alt="icon 3" className='motv-foto-3'/><p className='pa-3'>Marketing Digital Eficaz</p><p className='pa-33'>Um site é o ponto central para suas estratégias de marketing digital, como SEO, campanhas de anúncios pagos, e email marketing. Ele ajuda a atrair novos visitantes e a converter leads em clientes.</p></a>
